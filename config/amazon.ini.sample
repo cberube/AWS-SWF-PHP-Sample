@@ -1,0 +1,9 @@
+[credentials]
+; Replace this with your AWS access key
+key = xxx
+
+; Replace this with your AWS secret
+secret = xxx
+
+; Set this to your preferred region (us-east-1, us-west-1, etc)
+region = us-west-2
