@@ -4,6 +4,7 @@
 # Ignore Composer files
 vendor
 composer.phar
+composer.lock
 
 # Ignore credentials and settings files
 amazon.ini
