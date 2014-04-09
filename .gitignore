@@ -1,0 +1,9 @@
+# Ignore PHPStorm files
+.idea
+
+# Ignore Composer files
+vendor
+composer.phar
+
+# Ignore credentials and settings files
+amazon.ini
